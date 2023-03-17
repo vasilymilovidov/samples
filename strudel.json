@@ -76,11 +76,16 @@
   "obass": {
     "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/obass/",
     "c3": "c3.wav",
+    "db3": "db3.wav",
     "d3": "d3.wav",
+    "eb3": "eb3.wav",
     "e3": "e3.wav",
     "f3": "f3.wav",
+    "gb3": "gb3.wav",
     "g3": "g3.wav",
+    "ab3": "ab3.wav",
     "a3": "a3.wav",
+    "bb3": "bb3.wav",
     "b3": "b3.wav",
     "c4": "c4.wav"
   }
