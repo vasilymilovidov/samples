@@ -72,5 +72,21 @@
     "perc/42.wav",
     "perc/43.wav",
     "perc/44.wav"
-  ]
+  ],
+  "obass": {
+    "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/obass/",
+    "c3": "c3.wav",
+    "c#3": "c#3.wav",
+    "d3": "d3.wav",
+    "d#3": "d#3.wav",
+    "e3": "e3.wav",
+    "f3": "f3.wav",
+    "f#3": "f#3.wav",
+    "g3": "g3.wav",
+    "g#3": "g#3.wav",
+    "a3": "a3.wav",
+    "a#3": "a#3.wav",
+    "b3": "b3.wav",
+    "c4": "c4.wav",
+  }
 }
