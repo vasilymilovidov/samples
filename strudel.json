@@ -105,7 +105,7 @@
     "b1": "b1.wav",
     "c2": "c1.wav"
   },
-  "obass": {
+  "pkeys": {
     "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/pkeys/",
     "c3": "c3.wav",
     "db3": "db3.wav",
