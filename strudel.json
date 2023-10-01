@@ -27,6 +27,10 @@
     "lo/23.wav",
     "lo/24.wav"
   ],
+  "ir": [
+    "ir/ir0.wav",
+    "ir/ir1.wav",
+  ],
   "perc": [
     "perc/1.wav",
     "perc/2.wav",
