@@ -1,7 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/",
   "b1": {
-    "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/b1",
+    "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/b1/",
     "a2": "a2.wav",
     "a3": "a3.wav",
     "a4": "a4.wav",
@@ -52,7 +52,7 @@
     "gb5": "gb5.wav"
   },
   "b2": {
-    "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/b2",
+    "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/b2/",
     "a2": "a2.wav",
     "a3": "a3.wav",
     "a4": "a4.wav",
@@ -134,7 +134,7 @@
     "kik/9.wav"
   ],
   "ky1": {
-    "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/ky1",
+    "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/ky1/",
     "a1": "a1.wav",
     "a2": "a2.wav",
     "a3": "a3.wav",
