@@ -77,16 +77,6 @@
     "prc/8.wav",
     "prc/9.wav"
   ],
-  "02": {
-    "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/02/",
-    "c2": "c2.wav",
-    "c3": "c3.wav",
-    "c4": "c4.wav",
-    "c5": "c5.wav",
-    "gb2": "gb2.wav",
-    "gb3": "gb3.wav",
-    "gb4": "gb4.wav"
-  },
   "b1": {
     "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main/b1/",
     "a2": "a2.wav",
